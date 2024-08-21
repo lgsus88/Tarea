@@ -21,7 +21,7 @@ def main():
    }
 
    r = vi(d1, d2)
-   print("¿Todos los elementos de diccionario1 están en diccionario2?:", r)
+   print("¿Todos los elementos del diccionario #1 están en el diccionario#2?:", r)
 
 if __name__ == "__main__":
     main()
