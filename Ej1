@@ -1,0 +1,21 @@
+#Desarrollar un algoritmo que imprima de manera ascendente los valores  (todos del mismo tipo) de un diccionario
+dc = {
+    'a': 5,
+    'b': 3,
+    'c': 9,
+    'd': 1,
+    'e': 90,
+    'f': 643278,
+    'g': 2
+}
+
+#Se extraen los valores del diccionario
+valores = dc.values()
+
+#Ordenar los valores de manera ascendente
+vo = sorted(valores)
+
+#Se imprimen los valores ordenados
+print("Valores ordenados de manera ascendente:")
+for valores in vo:
+    print(valores)
