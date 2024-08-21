@@ -1,0 +1,23 @@
+def vi(d1, d2):
+    for clave, valor in d1.items():
+        # Verificar que la clave exista en el segundo diccionario
+        if clave not in d2:
+            return False
+        # Verificar que el valor correspondiente coincida
+        if d1[clave] != d2[clave]:
+            return False
+    return True
+
+d1 = {'a': 1,
+      'b': 2, 
+      'c': 5
+}
+
+d2 = {'a': 1, 
+      'b': 2, 
+      'c': 3, 
+      'd': 4
+}
+
+r = vi(d1, d2)
+print("¿Todos los elementos de diccionario1 están en diccionario2?:", r)
