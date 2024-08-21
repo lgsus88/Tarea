@@ -8,6 +8,4 @@ Resultado en terminal ejercicio #2:
 ![image](https://github.com/user-attachments/assets/059609e7-41ea-441f-9e24-a728f47c8632)
 
 
-Resultado en terminal ejercicio #3:
-
 
