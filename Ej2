@@ -20,4 +20,4 @@ d2 = {'a': 1,
 }
 
 r = vi(d1, d2)
-print("¿Todos los elementos de diccionario1 están en diccionario2?:", r)
+print("¿Todos los elementos del diccionario #1 están en el diccionario #2?:", r)
