@@ -5,7 +5,8 @@ Resultado en terminal ejercicio #1:
 
 Resultado en terminal ejercicio #2:
 
-![image](https://github.com/user-attachments/assets/6ecd1c41-471e-478e-9ff5-35531fcc70dd)
+![image](https://github.com/user-attachments/assets/059609e7-41ea-441f-9e24-a728f47c8632)
+
 
 Resultado en terminal ejercicio #3:
 
